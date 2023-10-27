@@ -2,7 +2,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-contract MztacatCommunity {
+contract Mybitcoin {
     string public name = "Mybitcoin";
     string public symbol = "MBTC";
     uint8 public decimals = 18;
