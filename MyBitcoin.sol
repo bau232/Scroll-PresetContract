@@ -3,8 +3,8 @@
 pragma solidity ^0.8.0;
 
 contract Mybitcoin {
-    string public name = "Mybitcoin";
-    string public symbol = "MBTC";
+    string public name = "Mybitcoin1";
+    string public symbol = "BTC1";
     uint8 public decimals = 18;
     uint256 public totalSupply = 21000000 * (10 ** uint256(decimals));
     address public owner;
